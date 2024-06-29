@@ -37,7 +37,7 @@
 
 - これ
   - 各習作
-    - （プロジェクト単位でGitHubActionsを管理しやすいようsubrepoとして定義する。）
+    - （プロジェクト単位でGitHubActionsを管理しやすいようsubmoduleとして定義する。）
   - img
     - このリポジトリ関連の画像
 
